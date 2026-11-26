@@ -27,6 +27,27 @@ The model is integrated with a Streamlit web application to provide interactive 
 - Joblib
 - Git and GitHub
 
+  
+## 📊 Model Performance
+
+The Random Forest model was evaluated using the test dataset.
+
+- **Algorithm:** Random Forest Classifier
+- **Hyperparameter Tuning:** GridSearchCV
+- **Best Parameters:**
+  - n_estimators: 50
+  - max_depth: 3
+- **Test Accuracy:** 96.67%
+
+### Evaluation Metrics
+
+- Accuracy
+- Precision
+- Recall
+- F1-score
+- Confusion Matrix
+
+
 ## 📊 Input Features
 
 The model uses four input features:
