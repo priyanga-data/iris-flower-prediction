@@ -39,6 +39,22 @@ The Random Forest model was evaluated using the test dataset.
   - max_depth: 3
 - **Test Accuracy:** 96.67%
 
+  
+## ⚙️ Project Workflow
+
+1. User enters four Iris flower measurements.
+2. Input values are converted into a Pandas DataFrame.
+3. The trained Random Forest model receives the input.
+4. The model predicts the flower species.
+5. Prediction probability is displayed for all three species.
+
+## 🌸 Supported Flower Species
+
+- Setosa
+- Versicolor
+- Virginica
+
+
 ### Evaluation Metrics
 
 - Accuracy
