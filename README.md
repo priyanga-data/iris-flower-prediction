@@ -54,7 +54,7 @@ The tuned model achieved approximately **96.67% test accuracy** in the experimen
 
 ## 🌐 Live Application
 
-[Click here to try the Iris Flower Prediction application](PASTE_YOUR_STREAMLIT_APP_URL_HERE)
+[Click here to try the Iris Flower Prediction application](https://iris-flower-prediction-jpx4syovcahgrpbzr7lxcn.streamlit.app/)
 
 ## 🚀 How to Run Locally
 
@@ -85,10 +85,6 @@ iris-flower-prediction/
 ├── .gitignore
 └── README.md
 ```
-
-## URL
-
-streamlit : https://iris-flower-prediction-jpx4syovcahgrpbzr7lxcn.streamlit.app/
 
 ## 📸 Application Screenshots
 
