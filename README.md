@@ -86,13 +86,22 @@ iris-flower-prediction/
 └── README.md
 ```
 
+## URL
+
+streamlit : https://iris-flower-prediction-jpx4syovcahgrpbzr7lxcn.streamlit.app/
+
+## 📸 Application Screenshots
+
+### 1. Iris Flower Prediction - Home Page
+![Iris Home Page](iris-home.png)
+
+### 2. Iris Flower Prediction - Result
+![Iris Prediction Result](iris-prediction.png)
+
 ## 👩‍💻 Author
 
 **Priyanga S**
 
-## URL
-
-streamlit : https://iris-flower-prediction-jpx4syovcahgrpbzr7lxcn.streamlit.app/
 
 ##
 
